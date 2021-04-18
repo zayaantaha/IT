@@ -1,0 +1,19 @@
+body{
+    background-color:#1D1E21;
+    color:white;
+}
+
+input{
+    color:white;
+}
+
+button{
+    background-color:white;
+    color:#8ab4f8;  
+}
+form{
+    margin-right: auto;
+    margin-left: auto;
+    max-width:600px;
+    margin-top:30px;
+}

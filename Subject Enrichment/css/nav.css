@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+.nav{
+    display: flex;  
+    flex-direction: row;
+    border-bottom: 1px solid #9aa0a6;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+.nav .title{  
+  color:#9aa0a6;
+  font-size: 44px;
+  margin-right:auto;
+  padding-bottom:5px;
+  font-family: 'Lato';
+  color:#009E8F;
+}
+
+
+.nav a:hover{  
+    display:flex;
+    flex-direction: row;
+    padding-bottom:2px;
+    border-bottom: 5px solid #009E8F;
+    color:#009E8F;
+    transition: all .5 ease-in-out;
+    transition-duration:0.2s;
+}
+
+.nav .o{
+    padding-left:50px;
+    margin-top: 7px;
+    font-size: 30px;
+    margin-right:90px;
+}
